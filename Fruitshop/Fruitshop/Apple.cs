@@ -6,5 +6,7 @@ namespace Fruitshop
 {
     public class Apple : Fruit
     {
+        public void Peel()
+        { }
     }
 }
