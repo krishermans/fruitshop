@@ -6,5 +6,7 @@ namespace Fruitshop
 {
     public class Orange : Fruit
     {
+        public void Squeeze()
+        { }
     }
 }
